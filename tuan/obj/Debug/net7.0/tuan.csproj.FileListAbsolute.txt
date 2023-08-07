@@ -1,0 +1,15 @@
+D:\bui anh tuan\net_core_API\tuan\bin\Debug\net7.0\tuan.exe
+D:\bui anh tuan\net_core_API\tuan\bin\Debug\net7.0\tuan.deps.json
+D:\bui anh tuan\net_core_API\tuan\bin\Debug\net7.0\tuan.runtimeconfig.json
+D:\bui anh tuan\net_core_API\tuan\bin\Debug\net7.0\tuan.dll
+D:\bui anh tuan\net_core_API\tuan\bin\Debug\net7.0\tuan.pdb
+D:\bui anh tuan\net_core_API\tuan\obj\Debug\net7.0\tuan.csproj.AssemblyReference.cache
+D:\bui anh tuan\net_core_API\tuan\obj\Debug\net7.0\tuan.GeneratedMSBuildEditorConfig.editorconfig
+D:\bui anh tuan\net_core_API\tuan\obj\Debug\net7.0\tuan.AssemblyInfoInputs.cache
+D:\bui anh tuan\net_core_API\tuan\obj\Debug\net7.0\tuan.AssemblyInfo.cs
+D:\bui anh tuan\net_core_API\tuan\obj\Debug\net7.0\tuan.csproj.CoreCompileInputs.cache
+D:\bui anh tuan\net_core_API\tuan\obj\Debug\net7.0\tuan.dll
+D:\bui anh tuan\net_core_API\tuan\obj\Debug\net7.0\refint\tuan.dll
+D:\bui anh tuan\net_core_API\tuan\obj\Debug\net7.0\tuan.pdb
+D:\bui anh tuan\net_core_API\tuan\obj\Debug\net7.0\tuan.genruntimeconfig.cache
+D:\bui anh tuan\net_core_API\tuan\obj\Debug\net7.0\ref\tuan.dll
