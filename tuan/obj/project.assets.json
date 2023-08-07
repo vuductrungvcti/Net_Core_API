@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\bui anh tuan\\net_core_API\\tuan\\tuan.csproj",
+      "projectUniqueName": "D:\\bui anh tuan\\net_core_API\\DemoGit\\tuan\\tuan.csproj",
       "projectName": "tuan",
-      "projectPath": "D:\\bui anh tuan\\net_core_API\\tuan\\tuan.csproj",
+      "projectPath": "D:\\bui anh tuan\\net_core_API\\DemoGit\\tuan\\tuan.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "D:\\bui anh tuan\\net_core_API\\tuan\\obj\\",
+      "outputPath": "D:\\bui anh tuan\\net_core_API\\DemoGit\\tuan\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
